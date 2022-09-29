@@ -2,22 +2,22 @@
   "todos": [
     {
       "id": 1,
-      "name": "Homer",
+      "name": "Network Homer",
       "message": "Eat a donut"
     },
     {
       "id": 2,
-      "name": "Marge",
+      "name": "Network Marge",
       "message": "Clean the house"
     },
     {
       "id": 3,
-      "name": "Bart",
+      "name": "Network Bart",
       "message": "Don't do homework"
     },
     {
       "id": 4,
-      "name": "Lisa",
+      "name": "Network Lisa",
       "message": "Do homework"
     }
   ]
