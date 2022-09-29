@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Homer",
+      "message": "Eat a donut"
+    },
+    {
+      "id": 2,
+      "name": "Marge",
+      "message": "Clean the house"
+    },
+    {
+      "id": 3,
+      "name": "Bart",
+      "message": "Don't do homework"
+    },
+    {
+      "id": 4,
+      "name": "Lisa",
+      "message": "Do homework"
+    }
+  ]
+}
